@@ -4,7 +4,7 @@ apps i3 autostart (from arch repo): picom xss-lock feh polkit-gnome
 
 apps .config: alacritty btop i3 rofi thunar
 
-my apps: chromium telegram-desktop simple-scan sane-gt68xx-firmware vim mpv nsxiv sof-firmware git 
+my apps: chromium telegram-desktop simple-scan sane-gt68xx-firmware vim mpv nsxiv sof-firmware git cmus
 
 from aur: sing-box gtk-themes
 
